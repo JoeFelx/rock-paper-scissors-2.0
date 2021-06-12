@@ -6,12 +6,12 @@ This game is just an example of a rock paper scissors game. This will be a perfe
 # Files
 
 It contains a 
-**index.html** file
-**script.js** file
-**styles.css** file.
+**index.html**,
+**script.js**,
+**styles.css** files.
 
 # Hosting
  Rock Paper Scissors game is hosted on the web using **Google Firebase**.
-Everyone can access it and enjoy gaming 🎮!!!! **By clicking the link below👇**
+Everyone can access it.Now enjoy gaming 🎮!!!! **By clicking the link below👇**
 [https://rick-paper-scissors.web.app/](https://rick-paper-scissors.web.app/)
                    

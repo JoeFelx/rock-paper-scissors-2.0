@@ -12,6 +12,7 @@ It contains a
 
 # Hosting
  Rock Paper Scissors game is hosted on the web using **Google Firebase**.
-Everyone can access it.Now enjoy gaming 🎮!!!! **By clicking the link below👇**
+Everyone can access it. 
+Now enjoy gaming 🎮!!!! **By clicking the link below👇**
 [https://rick-paper-scissors.web.app/](https://rick-paper-scissors.web.app/)
                    
